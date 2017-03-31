@@ -2,7 +2,7 @@
 # NoEvalJS
 When you want to kick the habit of using eval in javascript for some reason.
 
-[![NPM](https://nodei.co/npm/noevaljs.png)](https://nodei.co/npm/noevaljs/)
+[![NPM](https://nodei.co/npm/noevaljs.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/noevaljs/)
 
 Develop: [![Build Status](https://travis-ci.org/asciifaceman/noevaljs.svg?branch=develop)](https://travis-ci.org/asciifaceman/noevaljs)
 
