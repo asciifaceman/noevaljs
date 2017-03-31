@@ -1,7 +1,6 @@
+[![Build Status](https://travis-ci.org/asciifaceman/noevaljs.svg?branch=master)](https://travis-ci.org/asciifaceman/noevaljs) [![Coverage Status](https://coveralls.io/repos/github/asciifaceman/noevaljs/badge.svg?branch=develop)](https://coveralls.io/github/asciifaceman/noevaljs?branch=develop)
 # NoEvalJS
 When you want to kick the habit of using eval in javascript for some reason.
-
-Master: [![Build Status](https://travis-ci.org/asciifaceman/noevaljs.svg?branch=master)](https://travis-ci.org/asciifaceman/noevaljs) 
 
 Develop: [![Build Status](https://travis-ci.org/asciifaceman/noevaljs.svg?branch=develop)](https://travis-ci.org/asciifaceman/noevaljs)
 
