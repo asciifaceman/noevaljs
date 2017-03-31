@@ -5,6 +5,6 @@
   */
 
 module.exports = function() {
-  global.ಠ_ಠ = eval;
+  global.ಠ_ಠ = this.eval;
   delete this.eval;
 }
