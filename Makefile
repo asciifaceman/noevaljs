@@ -32,6 +32,6 @@ banner:
 test:
 	@echo "All tests pass"
 
-tests:
+tests: banner
 	./node_modules/.bin/mocha --reporter spec
 	
