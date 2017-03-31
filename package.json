@@ -4,7 +4,7 @@
   "description": "When you are tired of having eval around",
   "main": "fuckMyShitUpFam.js",
   "scripts": {
-    "test": "make test"
+    "test": "make tests"
   },
   "repository": {
     "type": "git",
