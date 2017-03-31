@@ -8,12 +8,12 @@ Develop: [![Build Status](https://travis-ci.org/asciifaceman/noevaljs.svg?branch
 
 
 # Installation
-`npm install noevaljs`
+`npm install noevaljs --save-dev`
 
 # Usage
 Easy as 
 
- `require('./path/to/fuckMyShitUpFam.js')();`
+ `require('./path/to/node_modules/noevaljs/fuckMyShitUpFam.js')();`
 
  and crying yourself to sleep.
 
