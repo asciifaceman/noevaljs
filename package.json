@@ -4,7 +4,9 @@
   "description": "When you are tired of having eval around",
   "main": "fuckMyShitUpFam.js",
   "scripts": {
-    "test": "make tests"
+    "test": "mocha",
+    "cover": "istanbul cover _mocha",
+    "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
   },
   "repository": {
     "type": "git",
