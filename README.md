@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/asciifaceman/noevaljs.svg?branch=master)](https://travis-ci.org/asciifaceman/noevaljs) [![Coverage Status](https://coveralls.io/repos/github/asciifaceman/noevaljs/badge.svg?branch=develop)](https://coveralls.io/github/asciifaceman/noevaljs?branch=develop)
+[![Build Status](https://travis-ci.org/asciifaceman/noevaljs.svg?branch=master)](https://travis-ci.org/asciifaceman/noevaljs) [![Coverage Status](https://coveralls.io/repos/github/asciifaceman/noevaljs/badge.svg?branch=develop)](https://coveralls.io/github/asciifaceman/noevaljs?branch=develop)[![Code Climate](https://codeclimate.com/github/asciifaceman/noevaljs/badges/gpa.svg)](https://codeclimate.com/github/asciifaceman/noevaljs)[![Issue Count](https://codeclimate.com/github/asciifaceman/noevaljs/badges/issue_count.svg)](https://codeclimate.com/github/asciifaceman/noevaljs)
 # NoEvalJS
 When you want to kick the habit of using eval in javascript for some reason.
 
