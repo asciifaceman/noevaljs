@@ -4,7 +4,7 @@
   "description": "When you are tired of having eval around",
   "main": "fuckMyShitUpFam.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/asciifaceman/noevaljs/issues"
   },
-  "homepage": "https://github.com/asciifaceman/noevaljs#readme"
+  "homepage": "https://github.com/asciifaceman/noevaljs#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
 }
