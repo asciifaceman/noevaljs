@@ -1,0 +1,22 @@
+{
+  "name": "noevaljs",
+  "version": "1.0.0",
+  "description": "When you are tired of having eval around",
+  "main": "fuckMyShitUpFam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asciifaceman/noevaljs.git"
+  },
+  "keywords": [
+    "eval"
+  ],
+  "author": "AsciiFaceMan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asciifaceman/noevaljs/issues"
+  },
+  "homepage": "https://github.com/asciifaceman/noevaljs#readme"
+}
