@@ -10,7 +10,9 @@ Develop: [![Build Status](https://travis-ci.org/asciifaceman/noevaljs.svg?branch
 
 # Usage
 Easy as 
+
  `require('./path/to/fuckMyShitUpFam.js')();`
+ 
  and crying yourself to sleep.
 
 # Contributing
