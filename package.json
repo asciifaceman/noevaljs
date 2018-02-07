@@ -1,6 +1,6 @@
 {
   "name": "noevaljs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "When you are tired of having eval around",
   "main": "fuckMyShitUpFam.js",
   "scripts": {
