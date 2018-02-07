@@ -1,6 +1,6 @@
 {
   "name": "noevaljs",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "When you are tired of having eval around",
   "main": "fuckMyShitUpFam.js",
   "scripts": {
@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/asciifaceman/noevaljs#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "coveralls": "^2.13.0",
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
     "istanbul": "^0.4.5",
-    "mocha": "^3.2.0",
+    "mocha": "^5.0.0",
     "mocha-lcov-reporter": "^1.3.0"
   }
 }
